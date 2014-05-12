@@ -6,8 +6,11 @@
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
-    "authorList": "Matthieu Parizeau",
+    "authorList": ["Matthieu Parizeau"],
     "credits": "Matthieu Parizeau for creating Energy Craft",
+    "parent": "",
+    "logoFile": "",
+    "screenshots": [],
     "requiredMods": [],
     "dependencies": []
 }

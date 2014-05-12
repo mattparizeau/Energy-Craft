@@ -9,14 +9,25 @@ import com.matt.mods.mattenergycraft.worldgen.ECWorldGen;
 
 public final class ECInit {
 	
-	public static final void initEC()
+	public static final void preinitEC()
 	{
+		GuiHandler.initGuiHandler();
 		ECTabs.initTabs();
 		ECBlocks.initBlocks();
 		ECItems.initItems();
 		ECTiles.initTiles();
 		ECEntity.initEntities();
 		ECWorldGen.initWorldGen();
+	}
+	
+	public static final void initEC()
+	{
+		
+	}
+	
+	public static final void postinitEC()
+	{
+		
 	}
 	
 }
