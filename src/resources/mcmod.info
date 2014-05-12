@@ -1,0 +1,14 @@
+[
+{
+    "modid": "mattenergycraft",
+    "name": "Energy Craft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": "Matthieu Parizeau",
+    "credits": "Matthieu Parizeau for creating Energy Craft",
+    "requiredMods": [],
+    "dependencies": []
+}
+]
